@@ -1,81 +1,53 @@
 ---
-date: 2017-04-09T10:58:08-04:00
+date: 2020-10-15T12:07:08-04:00
 description: "The Grand Hall"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: "/images/greetings.jpg"
 tags: ["scene"]
-title: "Chapter I: The Grand Hall"
+title: "Chapter I: Selamlaşma Üzerine"
 ---
 
-Three hundred and forty-eight years, six months, and nineteen days ago
-to-day, the Parisians awoke to the sound of all the bells in the triple
-circuit of the city, the university, and the town ringing a full peal.
+627 yilindaki Hendek Savasi'ndan [[Link]()] 630 yilinda gerceklesen Mekke Fethi'ine [[Link]()] kadar gecen 3 senelik dilimdeki gunlerden bir gun olmali. 
 
-The sixth of January, 1482, is not, however, a day of which history has
-preserved the memory. There was nothing notable in the event which thus
-set the bells and the bourgeois of Paris in a ferment from early morning.
-It was neither an assault by the Picards nor the Burgundians, nor a hunt
-led along in procession, nor a revolt of scholars in the town of Laas, nor
-an entry of “our much dread lord, monsieur the king,” nor even a pretty
-hanging of male and female thieves by the courts of Paris. Neither was it
-the arrival, so frequent in the fifteenth century, of some plumed and
-bedizened embassy. It was barely two days since the last cavalcade of that
-nature, that of the Flemish ambassadors charged with concluding the
-marriage between the dauphin and Marguerite of Flanders, had made its
-entry into Paris, to the great annoyance of M. le Cardinal de Bourbon,
-who, for the sake of pleasing the king, had been obliged to assume an
-amiable mien towards this whole rustic rabble of Flemish burgomasters, and
-to regale them at his Hôtel de Bourbon, with a very “pretty morality,
-allegorical satire, and farce,” while a driving rain drenched the
-magnificent tapestries at his door.
+Hayat-us Sahabe'de [^Ref1] verilen bilgiler bize olayin Medine Mescidi'nde [[Link]()] gectigini dusunduruyor.
 
-What put the “whole population of Paris in commotion,” as Jehan de Troyes
-expresses it, on the sixth of January, was the double solemnity, united
-from time immemorial, of the Epiphany and the Feast of Fools.
+> 	Hazreti Selmân anlatıyor:
+> 	
+> 	Bir adam, Allah Resûlüne gelerek: “Esselâmü aleyküm ey Allah’ın Resûlü!” dedi. Allah Resûlü de: “Ve Aleykesselam ve rahmetullahi ve berekâtüh” diye karşılık verdi.
+> 	
+> 	Daha sonra bir başkası gelerek: “Esselâmü aleyküm ve rahmetullah” dedi. Allah Resûlü: “Ve aleykesselam ve rahmetullahi ve berekâtüh” diye mukabelede bulundu.
+> 	
+> 	Bir diğer şahıs gelerek: “Esselâmü aleyküm ve rahmetullahi ve berekâtüh" 
+	
+deyince Allah Resûlü nasil karsilik vermistir sizce? Normal olarak yukaridaki karsiligi beklememize ragmen
 
-On that day, there was to be a bonfire on the Place de Grève, a maypole at
-the Chapelle de Braque, and a mystery at the Palais de Justice. It had
-been cried, to the sound of the trumpet, the preceding evening at all the
-cross roads, by the provost’s men, clad in handsome, short, sleeveless
-coats of violet camelot, with large white crosses upon their breasts.
+> 	Allah Resûlü: “Ve aleyke (senin de üzerine olsun)” 
 
-So the crowd of citizens, male and female, having closed their houses and
-shops, thronged from every direction, at early morn, towards some one of
-the three spots designated.
+diye oldukca kisa bir karsilik veriyor. 
 
-Each had made his choice; one, the bonfire; another, the maypole; another,
-the mystery play. It must be stated, in honor of the good sense of the
-loungers of Paris, that the greater part of this crowd directed their
-steps towards the bonfire, which was quite in season, or towards the
-mystery play, which was to be presented in the grand hall of the Palais de
-Justice (the courts of law), which was well roofed and walled; and that
-the curious left the poor, scantily flowered maypole to shiver all alone
-beneath the sky of January, in the cemetery of the Chapel of Braque.
+Efendimiz (S.A.V.) niye boyle bir karsilik vermis olabilir ki acaba?
 
-The populace thronged the avenues of the law courts in particular, because
-they knew that the Flemish ambassadors, who had arrived two days
-previously, intended to be present at the representation of the mystery,
-and at the election of the Pope of the Fools, which was also to take place
-in the grand hall.
+Ayni soru, son selami veren muhatabin aklina da gelmis olmali ki
 
-It was no easy matter on that day, to force one’s way into that grand
-hall, although it was then reputed to be the largest covered enclosure in
-the world (it is true that Sauval had not yet measured the grand hall of
-the Château of Montargis). The palace place, encumbered with people,
-offered to the curious gazers at the windows the aspect of a sea; into
-which five or six streets, like so many mouths of rivers, discharged every
-moment fresh floods of heads. The waves of this crowd, augmented
-incessantly, dashed against the angles of the houses which projected here
-and there, like so many promontories, into the irregular basin of the
-place. In the centre of the lofty Gothic* façade of the palace, the grand
-staircase, incessantly ascended and descended by a double current, which,
-after parting on the intermediate landing-place, flowed in broad waves
-along its lateral slopes,—the grand staircase, I say, trickled
-incessantly into the place, like a cascade into a lake. The cries, the
-laughter, the trampling of those thousands of feet, produced a great noise
-and a great clamor. From time to time, this noise and clamor redoubled;
-the current which drove the crowd towards the grand staircase flowed
-backwards, became troubled, formed whirlpools. This was produced by the
-buffet of an archer, or the horse of one of the provost’s sergeants, which
-kicked to restore order; an admirable tradition which the provostship has
-bequeathed to the constablery, the constablery to the _maréchaussée_,
-the _maréchaussée_ to our _gendarmeri_ of Paris.
+> 	Bunun üzerine (son selami veren) adam: “Yâ Resûlallah, sana falan ve falan adam geldiğinde ve sana selam verdiğinde, onlara benden daha güzel bir şekilde karşılık verdin.”
+	
+diye merakini ortaya koyuyor.
+
+Evet, gercekten zamaninda kimsenin kendisinden en kucuk bir kabalik bile gormedigi Efendimiz (S.A.V.) niye boyle bir kestirmeden bir selamla mukabele etmis olabilir ki?
+
+Bakalim, sebebi neymis?
+
+> 	(Cevaben)( Allah Resûlü: “Sen bana bir şey bırakmadın ki! Çünkü Allah Teâlâ ‘Size selam verildiği zaman ondan daha iyisiyle mukabele edin.’ (Nisa Suresi, 86ci ayet) buyurmaktadır. Bu nedenle, ben sana ancak aynen mukabele edebildim.” buyurdu.
+
+Ne kadar hos, nazik ve ayni zamanda mantikli bir cevap degil mi?
+
+Son sahis selami tavsiye edilen en mukemmel sekilde verdigi icin, Efendimiz de artik daha otesi soylenemeyecek olan bu selama karsi "Aleyke" diyerek o seviyeye isaret edecek sekilde geri iade ediyor. 
+
+Ayetlerin nuzulu ile ilgili kaynaklar [^Ref2], bize, Efendimiz'in 86.ci ayetine isaret ettigi Nisa Suresi'nin 625-630 yillari arasinda inmis olabilecegini bildiriyorlar. Nisa Suresi 176 ayetten olustuguna gore, Medine doneminde surelerin nuzul sirasinin Kur'an'daki sirayla cok da farklilik gostermedigini goz onune alarak, bu hadisenin 627-628 yillarina tekabul etmis olabilecegi tahmininde bulunabiliriz.
+
+Bu olayi rivayet eden Selman Farisi'nin 31 Mart 627 yilinda gerceklesen Hendek Savasi'ndan hemen bir muddet once kolelikten kurtularak Ashab-i Suffe'ye katilmis olmasi yukaridaki belirttigimiz tarih araligini ve hadisenin Medine Mescidi'nde gecmis olabilecegi tezlerini destekliyor. 
+
+622 yilinda gerceklesen Hicret'ten sonra, Medine'de, pespese inen surelerin bu ilk muslumanlar toplulugun toplum olma surecine odaklandigini biliyoruz. Iste, selamlasma ile ilgili bu kucuk rivayet, bize, bir kac kelimenden ibaret olan basit bir ifade gibi gozukse de, toplumun bireyleri arasindaki gorusme ve irtibatin en kucuk ve ilk adimi olan selam vermenin ne kadar ciddiye alindigini gosteriyor.  
+
+
+[^Ref1]: Hayatus Sahabe
+[^Ref2]: Ayet ile ilgili kaynak
