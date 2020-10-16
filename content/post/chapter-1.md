@@ -1,7 +1,7 @@
 ---
 date: 2020-10-15T12:07:08-04:00
 description: "The Grand Hall"
-featured_image: "/images/greetings.jpg"
+featured_image: "static/images/greetings.jpg"
 tags: ["scene"]
 title: "Chapter I: Selamlaşma Üzerine"
 ---
