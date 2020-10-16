@@ -1,5 +1,5 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "Young Spirits"
 featured_image: '/images/image0.jpg'
 description: "Whoever goes out seeking knowledge is in the way of Allah until he returns."
 ---
