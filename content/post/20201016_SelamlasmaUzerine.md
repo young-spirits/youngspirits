@@ -1,9 +1,9 @@
 ---
 date: 2020-10-15T12:07:08-04:00
-description: "The Grand Hall"
-featured_image: "static/images/greetings.jpg"
+description: "Esselâmü Aleyküm..."
+featured_image: "/images/greetings.jpg"
 tags: ["scene"]
-title: "Chapter I: Selamlaşma Üzerine"
+title: "Selamlaşma Üzerine"
 ---
 
 627 yilindaki Hendek Savasi'ndan [[Link]()] 630 yilinda gerceklesen Mekke Fethi'ine [[Link]()] kadar gecen 3 senelik dilimdeki gunlerden bir gun olmali. 
