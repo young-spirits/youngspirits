@@ -2,7 +2,7 @@
 date: 2020-10-15T12:07:08-04:00
 description: "Esselâmü Aleyküm..."
 featured_image: "/images/greetings.jpg"
-tags: ["scene"]
+tags: ["hadith"]
 title: "Selamlaşma Üzerine"
 ---
 
