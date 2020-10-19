@@ -1,5 +1,5 @@
 ---
-date: 2020-10-15T12:07:08-04:00
+date: 2020-10-19T12:07:08-04:00
 description: "Responsibilities and selflessness"
 featured_image: "/images/DSC01734.jpg"
 tags: ["hadith"]
