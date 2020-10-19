@@ -1,3 +1,10 @@
+---
+date: 2020-10-15T12:07:08-04:00
+description: "Responsibilities and selflessness"
+featured_image: "/images/esmeralda.jpg"
+tags: ["hadith"]
+title: "Responsibilities and selflessness"
+---
 ## Responsibilities and selflessness  
 
 It was a rather uncrowded morning at the airport. People were just getting over the pandemic and travel was picking up. There were no lineups as there used to be, so it was not long before he put his carry on into the bin, sat down on his seat and buckle up. The plane was mostly empty, passengers were scattered around the seats. He could see a mother and her probably 4-year-old son next to him on the other side of the aisle. The child being a child, his mother was rushing to attend to all his nuisance, trying to keep things under control, still smiling.
@@ -6,7 +13,7 @@ After the doors were closed and the plane left the gate, the flight attendants l
 
 *“ ….. should the cabin experience sudden pressure loss, stay calm and listen for instructions from the cabin crew. Oxygen masks will drop down from above your seat. Place the mask over your mouth and nose, like this. Pull the strap to tighten it. If you are traveling with children, make sure that your own mask is on first before helping your children. In the unlikely event of an …..”*
 
-![DSC01734](..images\DSC01734.JPG)
+![Bridge](/images/DSC01734.JPG)
 
 This part always baffled him. He looked at the mother and child again, observed how she was obsessed with the boy. He thought, would any mother put the mask on herself before her child? Could she do that? It seemed very unlikely. Mothers and parents are always associated with selflessness about their children. We hear and read stories, news everywhere about the sacrifices they make, how they always put their children before themselves. It is almost a given fact. 
 
