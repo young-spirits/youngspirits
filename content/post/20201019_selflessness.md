@@ -1,7 +1,7 @@
 ---
 date: 2020-10-15T12:07:08-04:00
 description: "Responsibilities and selflessness"
-featured_image: "/images/esmeralda.jpg"
+featured_image: "/images/DSC01734.jpg"
 tags: ["hadith"]
 title: "Responsibilities and selflessness"
 ---
