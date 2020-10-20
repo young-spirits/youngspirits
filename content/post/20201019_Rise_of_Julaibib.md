@@ -1,13 +1,14 @@
 ---
-date: 2020-10-19 T12:07:08-07:00
-description: “The rise of Julaibib“
-featured_image: "/images/Rise.jpg“
+date: 2020-10-19T12:07:08-07:00
+description: “The rise of Julaibib"
+featured_image: "/images/Rise.jpg"
 tags: [“History"]
-title: “The rise of Julaibib“
+title: “The rise of Julaibib"
 ---
 
 
-### The rise of Julaibib
+
+## The rise of Julaibib
 
 *The ones who watched Star Wars: The Rise of Skywalker must remember the conversation between Rey and Nambi Ghima, a young Aki-Aki girl at the Festival of Ancestors on Pasaana. She greeted Rey and offered her a husk necklace as a gesture of welcome and asked her name. After C-3PO translated her Rey's first name, she asked about her family name and Rey responded "Just Rey". Everyone must have noticed the bitter and solitude in Rey's voice when she said "Just Rey".*
 
