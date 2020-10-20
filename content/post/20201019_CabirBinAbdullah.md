@@ -3,7 +3,7 @@ date: 2020-10-19T12:07:08-04:00
 description: ""
 featured_image: "images/cbir_bin_abdullah_kimdir_cbir_bin_abdullahin_hayati_h88171_50a54.jpg"
 tags: ["Biography"]
-title: "Cabir bin Abdullah"
+title: ""
 ---
 
 
