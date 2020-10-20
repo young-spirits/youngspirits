@@ -23,7 +23,10 @@ title: “Julaybib's Wife“
  
 
 [^]: Alexander, Amy     &amp; Welzel, Christian. (2011). Islam and patriarchy: how robust is     Muslim support for patriarchal values?. International Review of Sociology.     21. 249-276. 10.1080/03906701.2011.581801.
+
 [^]: İbn Hacer, el-Metalibü'I-aliye, ll, 4-5; eş-Şevkânî,     Neylü`l-Evtâr, VI,168; Heysemî, Mecmau`z-Zevâid, Mısır, t.y., IV, 283 vd.
+
 [^]: Hayat'us-Sahabe     Cilt 2, Sahabileerden, Cüleybib'in İzdivacı, 180
+
 [^]: Hayat'us-Sahabe Cilt     2, Sahabileerden, Cüleybib'in İzdivacı, 180
 
