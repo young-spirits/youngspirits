@@ -1,9 +1,9 @@
 ---
-date: 2020-10-19T12:07:08-07:00
-description: “The rise of Julaibib"
+date: 2020-10-19T12:09:08-07:00
+description: "The rise of Julaibib"
 featured_image: "/images/Rise.jpg"
-tags: [“History"]
-title: “The rise of Julaibib"
+tags: ["History"]
+title: "The rise of Julaibib"
 ---
 
 
