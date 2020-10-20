@@ -1,13 +1,12 @@
 ---
 date: YYYY-MM-DD T12:07:08-04:00
 description: “Thoughts on Julaybib's Wife“
-featured_image: "/images/your_image.jpg“
+featured_image: "(https://github.com/young-spirits/youngspirits/blob/main/static/images/desert.jpg“
 tags: [“hadith"]
 title: “Julaybib's Wife“
 ---
 
-
-![desert](./desert.jpg)
+![](https://github.com/young-spirits/youngspirits/blob/main/static/images/desert.jpg)
 
 # Julaybib's Wife
 
