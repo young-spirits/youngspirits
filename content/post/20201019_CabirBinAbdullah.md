@@ -1,14 +1,14 @@
 ---
 date: 2020-10-19T12:07:08-04:00
 description: ""
-featured_image: "images/cbir_bin_abdullah_kimdir_cbir_bin_abdullahin_hayati_h88171_50a54.jpg"
+featured_image: "images/photo-1444703686981-a3abbc4d4fe3.jpeg"
 tags: ["Biography"]
 title: "Cabir Bin Abdullah"
 ---
 
 
 
-![](images/cbir_bin_abdullah_kimdir_cbir_bin_abdullahin_hayati_h88171_50a54.jpg)
+![](images/photo-1444703686981-a3abbc4d4fe3.jpeg)
 Nübüvvetin on üçüncü senesi (622) hac mevsiminde Hz. Peygamber’i Medine’ye davet etmeye karar veren bir grup medineli, bir gece Akabe‘de 
 bulusmayi kararlastirdilar. Kucuk yasta babasiyla beraber gelenlerden biride Cabir bin Abdullah’ti. Yetmisbes kisilik grubun en kucuk uyesi olarak Hz.muhammed’in huzurunda biat etti. Kucuk yastan itibaren Efendimizle beraber olmasinin bereketiyle o , en cok hadis rivayet eden sabahebilerden biri olmustu. Binden fazla hadis nakleden alti sahabeden biri olarak 1540 rivayet hadis kulliyatinda yer almisti. Efendimizden yanlis bir soz nakletmemek icin cok gayret gostermisti. O’nun hadisleri rivayet etme konusundaki gostermis oldugu titizligi biz su olayda gormekteyiz.
 
