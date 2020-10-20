@@ -1,3 +1,12 @@
+---
+date: 2020-10-19T12:07:08-04:00
+description: ""
+featured_image: "/images/greetings.jpg"
+tags: ["Biography"]
+title: "Cabir bin Abdullah"
+---
+
+
 ##Cabir bin Abdullah
 ![MacDown logo](/Users/imac/Desktop/cbir_bin_abdullah_kimdir_cbir_bin_abdullahin_hayati_h88171_50a54.jpg)
 Nübüvvetin on üçüncü senesi (622) hac mevsiminde Hz. Peygamber’i Medine’ye davet etmeye karar veren bir grup medineli, bir gece Akabe‘de 
