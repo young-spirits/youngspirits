@@ -1,5 +1,5 @@
 ---
-date: YYYY-MM-DD T12:07:08-04:00
+date: 2020-10-19 T12:07:08-05:00
 description: “Thoughts on Julaybib's Wife“
 featured_image: "(https://github.com/young-spirits/youngspirits/blob/main/static/images/desert.jpg“
 tags: [“hadith"]
