@@ -22,5 +22,5 @@ Cabir bin Abdullah’in ilime olan meraki ve istiyaki bununla sinirli degildi. H
 Peygamber Efendimiz Cabir’i(ra) cok severdi. Onunla yakindan ilgilenir hastaladiginda ziyaretine giderdi. Cabir babasinin vefatindan. 
 Hayatının sonlarına doğru gözlerini kaybetti ve 697 yılında 94 yaşında Medine’de vefat etti.
 
-[akabe-biatlari][]
+
 [akabe-biatlari]: https://islamansiklopedisi.org.tr/akabe-biatlari
