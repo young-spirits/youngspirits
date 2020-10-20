@@ -1,8 +1,10 @@
+---
 date: YYYY-MM-DD T12:07:08-04:00
 description: “Thoughts on Julaybib's Wife“
 featured_image: "/images/your_image.jpg“
 tags: [“hadith"]
 title: “Julaybib's Wife“
+---
 
 
 ![desert](./desert.jpg)
