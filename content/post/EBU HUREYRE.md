@@ -1,4 +1,4 @@
-![](./BUSRA.jpg)
+![](./https://github.com/young-spirits/youngspirits/blob/main/static/images/desert.jpg.jpg)
 
 
 # EBU HUREYRE
